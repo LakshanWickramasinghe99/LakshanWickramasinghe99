@@ -26,7 +26,4 @@ I'm passionate about creating impactful web and mobile applications. Currently, 
 - 🔗 [GitHub Profile](https://github.com/LakshanWickramasinghe99)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tharaka-lakshan-b030772a2/)
 
-- ## 🎯 Fun Fact
-*"Coding is like magic, except you debug it!"*
 
-🌟 Let's build something amazing together!
