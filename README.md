@@ -32,6 +32,19 @@ I’m passionate about creating impactful web and mobile applications. Currently
 
 ---
 
+## 🌐 Connect with Me
+<p align="center"> 
+  <a href="https://twitter.com/lakshan014" target="_blank"> 
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" /> 
+  </a> 
+  <a href="https://linkedin.com/in/tharaka-lakshan-b030772a2" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /> 
+  </a> 
+</p>
+
+---
+
+
 ## 🌟 Stats & Achievements  
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=lakshanwickramasinghe99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
@@ -42,18 +55,6 @@ I’m passionate about creating impactful web and mobile applications. Currently
 
 ## 📊 GitHub Stats  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lakshanwickramasinghe99&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanwickramasinghe99&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanwickramasinghe99&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
----
-
-## 🌐 Connect with Me
-<p align="center"> 
-  <a href="https://twitter.com/lakshan014" target="_blank"> 
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" /> 
-  </a> 
-  <a href="https://linkedin.com/in/tharaka-lakshan-b030772a2" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /> 
-  </a> 
-</p>
 
 ---
 
