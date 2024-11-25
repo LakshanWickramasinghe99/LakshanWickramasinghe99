@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tharaka Lakshan! 
 
-- ![Developer](https://user-images.githubusercontent.com/79842529/218249205-b98bc52f-7b3a-4ff3-b7a1-5c3ee340f591.gif) 
+![Developer](https://user-images.githubusercontent.com/79842529/218249205-b98bc52f-7b3a-4ff3-b7a1-5c3ee340f591.gif) 
 
 🎯 **Aspiring Developer on a Mission**  
 I’m passionate about creating impactful web and mobile applications. Currently exploring the **MERN Stack** and striving to become a versatile **Full Stack Developer** and **Mobile App Developer**.  
