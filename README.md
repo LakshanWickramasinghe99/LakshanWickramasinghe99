@@ -47,15 +47,8 @@ I’m passionate about creating impactful web and mobile applications. Currently
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">  
-<a href="https://twitter.com/lakshan014" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/lakshan014?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-</a>  
-<a href="https://linkedin.com/in/tharaka-lakshan-b030772a2" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Tharaka%20Lakshan-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-</a>  
-</p>
+## 🌐 Connect with Me
+<p align="center"> <a href="https://twitter.com/lakshan014" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /> </a> <a href="https://linkedin.com/in/tharaka-lakshan-b030772a2" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> </p>
 
 ---
 
