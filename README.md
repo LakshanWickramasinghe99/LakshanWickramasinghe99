@@ -120,7 +120,7 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanwickramasinghe99&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d420&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanwickramasinghe99&bg_color=0d1117&color=00f5d4&line=00f5d4&point=00f5d4&area=true&area_color=00f5d4&hide_border=true&custom_title=Tharaka's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -142,6 +142,39 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 
 ## 🐍 Contribution Snake
 
+> **One-time setup needed** — create `.github/workflows/snake.yml` in your profile repo with this content, run it once, then the snake will appear here automatically every day:
+
+<details>
+<summary>📋 Click to copy the GitHub Action</summary>
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: lakshanwickramasinghe99
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
 <div align="center">
 
 <picture>
@@ -151,31 +184,6 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 </picture>
 
 </div>
-
-> ⚙️ **To enable the snake animation**, add this GitHub Action to your profile repo at `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: lakshanwickramasinghe99
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 <br/>
 
