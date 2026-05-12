@@ -127,7 +127,7 @@ I'm a passionate developer from **Sri Lanka** 🇱🇰, on a mission to build im
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanwickramasinghe99&theme=github_dark&title=lakshanwickramasinghe99" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanwickramasinghe99&theme=github_dark&hide_title=true" width="100%"/>
 
 <br/>
 
