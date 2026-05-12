@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a2a,100:0d1117&height=200&section=header&text=Tharaka%20Lakshan&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=56&descSize=18&descColor=7a97a8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a2a,100:0d1117&height=200&section=header&text=Tharaka%20Lakshan&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=56&descSize=20&descColor=5a7a8e" width="100%"/>
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tharaka+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%8C%B1;React+Native+%7C+Flutter+Explorer+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%A4%9D;Let's+build+something+awesome!+%F0%9F%94%A5)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=640&lines=Hey+there!+I'm+Tharaka+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%8C%B1;React+Native+%7C+Flutter+Explorer+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%A4%9D;Let's+build+something+awesome!+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanwickramasinghe99&label=Profile+Views&color=00f5d4&style=flat-square)
-&nbsp;
+&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-@lakshan014-0d1117?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/lakshan014)
-&nbsp;
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-Tharaka%20Lakshan-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
-&nbsp;
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-lakshanwickramasinghe99-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lakshanwickramasinghe99)
 
 </div>
@@ -22,32 +24,30 @@
 
 ---
 
-## 👋 About Me
-
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### Hi, I'm Tharaka! 🚀
+## 👋 Hi, I'm Tharaka!
 
-I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build impactful web and mobile applications.
+I'm a passionate developer from **Sri Lanka** 🇱🇰, on a mission to build impactful web and mobile applications.
 
-- 🔭 &nbsp; Currently mastering the **MERN Stack**
-- 🌱 &nbsp; Levelling up in **React Native** & **Flutter**
-- 👯 &nbsp; Open to **open-source collaboration**
-- 💡 &nbsp; Goal: Build products that make a real impact
-- 💬 &nbsp; Ask me about **JavaScript, React, Node.js**
-- ⚡ &nbsp; Fun fact: I love turning ideas into real apps!
-
-<br/>
-
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/lakshan014)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
+```javascript
+const tharaka = {
+  role:     "Full Stack & Mobile Developer",
+  location: "Sri Lanka 🇱🇰",
+  currently: ["MERN Stack", "React Native", "Flutter"],
+  openTo:    ["Open Source", "Collaboration", "Freelance"],
+  ask_me:    ["JavaScript", "React", "Node.js"],
+  fun_fact:  "I love turning ideas into real apps! 🔥"
+};
+```
 
 </td>
 <td width="45%" align="center" valign="top">
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
 
 </td>
 </tr>
@@ -62,6 +62,7 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 <div align="center">
 
 ### ◈ Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -70,7 +71,8 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-### ⬡ Backend
+### ⬡ Backend & Database
+
 ![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
@@ -79,6 +81,7 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ### ◎ Mobile
+
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
 ![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84)
@@ -86,6 +89,7 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 ### ✦ Tools
+
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
@@ -103,12 +107,13 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshanwickramasinghe99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=7a97a8&ring_color=00f5d4&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanwickramasinghe99&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=7a97a8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshanwickramasinghe99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=5a7a8e&ring_color=00f5d4&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanwickramasinghe99&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=5a7a8e"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanwickramasinghe99&hide_border=true&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=7a97a8&dates=3d5460&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanwickramasinghe99&hide_border=true&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=5a7a8e&dates=3d5460&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117"/>
 
 </div>
 
@@ -143,6 +148,22 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=lakshanwickramasinghe99&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-snake.svg"/>
+</picture>
 
 </div>
 
