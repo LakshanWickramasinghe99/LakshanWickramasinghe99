@@ -120,17 +120,17 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanwickramasinghe99&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanwickramasinghe&theme=github_dark" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshanwickramasinghe99&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshanwickramasinghe&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshanwickramasinghe99&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshanwickramasinghe&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshanwickramasinghe99&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshanwickramasinghe&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshanwickramasinghe99&theme=github_dark&utcOffset=+5.30"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshanwickramasinghe&theme=github_dark&utcOffset=+5.30"/>
 
 </div>
 
