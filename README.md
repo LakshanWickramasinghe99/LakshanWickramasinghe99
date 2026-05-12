@@ -1,62 +1,114 @@
-# 👋 Hi, I'm Tharaka Lakshan! 
+<div align="center">
 
-![Developer](https://user-images.githubusercontent.com/79842529/218249205-b98bc52f-7b3a-4ff3-b7a1-5c3ee340f591.gif) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharaka%20Lakshan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-🎯 **Aspiring Developer on a Mission**  
-I’m passionate about creating impactful web and mobile applications. Currently exploring the **MERN Stack** and striving to become a versatile **Full Stack Developer** and **Mobile App Developer**.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%8C%B1;React+Native+%7C+Flutter+Explorer+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🚀 About Me
-- 👀 **Interests**: Full Stack Development, Mobile Apps, and Open Source.
-- 🌱 **Learning**: Mastering the **MERN Stack** and building expertise in **React Native** and **Flutter**.
-- 💡 **Goal**: To contribute to innovative projects and make a meaningful impact.
-- 💞️ **Collaboration**: Open to teaming up on open-source and development projects.
+[![Profile Views](https://komarev.com/ghpvc/?username=lakshanwickramasinghe99&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/lakshanwickramasinghe99)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lakshan014?logo=twitter&style=flat&color=1DA1F2&labelColor=0d1117)](https://twitter.com/lakshan014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
 
----
-
-## 💻 Tech Stack  
-### Frontend:
-- **Languages**: HTML, CSS, JavaScript  
-- **Libraries & Frameworks**: React, Redux, Bootstrap, TailwindCSS  
-
-### Backend:
-- **Languages**: Node.js, Express.js  
-- **Databases**: MongoDB, MySQL, SQL Server  
-
-### Mobile Development:
-- **Frameworks**: React Native, Flutter (beginner)
-
-### Tools:
-- Git & GitHub, VS Code, Postman, Figma
+</div>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center"> 
-  <a href="https://twitter.com/lakshan014" target="_blank"> 
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" /> 
-  </a> 
-  <a href="https://linkedin.com/in/tharaka-lakshan-b030772a2" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /> 
-  </a> 
-</p>
+## 👋 About Me
+
+```yaml
+name:     Tharaka Lakshan
+location: Sri Lanka 🇱🇰
+role:     Aspiring Full Stack & Mobile Developer
+stack:    MERN Stack
+learning: React Native · Flutter
+goal:     Build impactful apps · Contribute to open source
+open_to:  Collaboration · Internships · Freelance Projects
+```
+
+- 👀 Passionate about **Full Stack Development**, **Mobile Apps**, and **Open Source**
+- 🌱 Currently mastering the **MERN Stack** and diving into **React Native** & **Flutter**
+- 💡 Goal: Build meaningful products and contribute to innovative projects
+- 💞️ Always open to teaming up on interesting open-source work
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🌟 Stats & Achievements  
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=lakshanwickramasinghe99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
-<img src="https://github-profile-trophy.vercel.app/?username=lakshanwickramasinghe99&margin-w=5&margin-h=5&column=7&theme=gruvbox" alt="GitHub Trophy" />  
-</p>
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lakshanwickramasinghe99&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanwickramasinghe99&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanwickramasinghe99&layout=compact&theme=radical" alt="Top Languages" /> </p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshanwickramasinghe99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanwickramasinghe99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanwickramasinghe99&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
 
 ---
 
-## 🔧 Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a> </p>
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lakshanwickramasinghe99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lakshan014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshanwickramasinghe99)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
