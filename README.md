@@ -32,16 +32,18 @@
 
 I'm a passionate developer from **Sri Lanka** 🇱🇰, on a mission to build impactful web and mobile applications.
 
-```javascript
-const tharaka = {
-  role:     "Full Stack & Mobile Developer",
-  location: "Sri Lanka 🇱🇰",
-  currently: ["MERN Stack", "React Native", "Flutter"],
-  openTo:    ["Open Source", "Collaboration", "Freelance"],
-  ask_me:    ["JavaScript", "React", "Node.js"],
-  fun_fact:  "I love turning ideas into real apps! 🔥"
-};
-```
+- 🔭 &nbsp; Currently mastering the **MERN Stack**
+- 🌱 &nbsp; Levelling up in **React Native** & **Flutter**
+- 👯 &nbsp; Open to **open-source collaboration**
+- 💡 &nbsp; Goal: Build products that make a real impact
+- 💬 &nbsp; Ask me about **JavaScript, React, Node.js**
+- 📍 &nbsp; Based in **Sri Lanka** 🇱🇰
+- ⚡ &nbsp; Fun fact: I love turning ideas into real apps!
+
+<br/>
+
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/lakshan014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -155,15 +157,11 @@ const tharaka = {
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Activity Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-snake.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshanwickramasinghe99&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" width="100%"/>
 
 </div>
 
