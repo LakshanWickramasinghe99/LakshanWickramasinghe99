@@ -1,37 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Tharaka%20Lakshan&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=56&descSize=18&descColor=7a97a8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a2a,100:0d1117&height=200&section=header&text=Tharaka%20Lakshan&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20Mobile%20Developer&descAlignY=56&descSize=18&descColor=7a97a8" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%8C%B1;React+Native+%7C+Flutter+Explorer+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tharaka+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%8C%B1;React+Native+%7C+Flutter+Explorer+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%A4%9D;Let's+build+something+awesome!+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanwickramasinghe99&label=Profile+Views&color=00f5d4&style=flat-square)
+&nbsp;
 [![Twitter](https://img.shields.io/badge/-@lakshan014-0d1117?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/lakshan014)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-Tharaka%20Lakshan-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/-lakshanwickramasinghe99-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lakshanwickramasinghe99)
 
 </div>
 
 <br/>
 
-## ⚡ About Me
+---
 
-```typescript
-const tharaka = {
-  location : "Sri Lanka 🇱🇰",
-  role     : "Aspiring Full Stack & Mobile Developer",
-  stack    : ["MongoDB", "Express.js", "React", "Node.js"],
-  learning : ["React Native", "Flutter"],
-  goal     : "Build impactful apps & contribute to open source",
-  openTo   : ["Collaboration", "Internships", "Freelance"],
-};
-```
+## 👋 About Me
 
-- 👀 Passionate about **Full Stack Development**, **Mobile Apps**, and **Open Source**
-- 🌱 Currently mastering the **MERN Stack** and levelling up in **React Native** & **Flutter**
-- 💡 Goal: Build meaningful products and contribute to innovative projects
-- 💞️ Always open to teaming up on interesting open-source work
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hi, I'm Tharaka! 🚀
+
+I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build impactful web and mobile applications.
+
+- 🔭 &nbsp; Currently mastering the **MERN Stack**
+- 🌱 &nbsp; Levelling up in **React Native** & **Flutter**
+- 👯 &nbsp; Open to **open-source collaboration**
+- 💡 &nbsp; Goal: Build products that make a real impact
+- 💬 &nbsp; Ask me about **JavaScript, React, Node.js**
+- ⚡ &nbsp; Fun fact: I love turning ideas into real apps!
+
+<br/>
+
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/lakshan014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -83,10 +103,24 @@ const tharaka = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=lakshanwickramasinghe99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=7a97a8&ring_color=00f5d4"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanwickramasinghe99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=7a97a8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshanwickramasinghe99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=7a97a8&ring_color=00f5d4&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanwickramasinghe99&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=7a97a8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanwickramasinghe99&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=7a97a8&dates=3d5460&currStreakNum=ffffff&sideNums=ffffff"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshanwickramasinghe99&hide_border=true&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=7a97a8&dates=3d5460&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanwickramasinghe99&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d420&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -106,6 +140,47 @@ const tharaka = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+> ⚙️ **To enable the snake animation**, add this GitHub Action to your profile repo at `.github/workflows/snake.yml`:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: lakshanwickramasinghe99
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+<br/>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -114,8 +189,8 @@ const tharaka = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tharaka-lakshan-b030772a2)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/lakshanwickramasinghe99)
 
-</div>
+<br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a2a,100:0d1117&height=120&section=footer" width="100%"/>
+
 </div>
