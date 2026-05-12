@@ -116,11 +116,21 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Overview
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanwickramasinghe99&bg_color=0d1117&color=00f5d4&line=00f5d4&point=00f5d4&area=true&area_color=00f5d4&hide_border=true&custom_title=Tharaka's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanwickramasinghe99&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshanwickramasinghe99&theme=github_dark"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshanwickramasinghe99&theme=github_dark"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshanwickramasinghe99&theme=github_dark"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshanwickramasinghe99&theme=github_dark&utcOffset=+5.30"/>
 
 </div>
 
@@ -133,55 +143,6 @@ I'm a passionate developer from **Sri Lanka 🇱🇰**, on a mission to build im
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=lakshanwickramasinghe99&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-> **One-time setup needed** — create `.github/workflows/snake.yml` in your profile repo with this content, run it once, then the snake will appear here automatically every day:
-
-<details>
-<summary>📋 Click to copy the GitHub Action</summary>
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: lakshanwickramasinghe99
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lakshanwickramasinghe99/lakshanwickramasinghe99/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
